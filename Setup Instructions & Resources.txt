@@ -1,0 +1,20 @@
+How to build the MagicBuild project
+
+Setup:
+
+Install cmake: https://cmake.org/download/ 
+When installing make sure you choose the add cmake to the system path for all users.
+
+
+Steps to build the project:
+- create a build directory at the root of the project
+- go to build dir (cd build)
+- run the following commands:
+
+cmake ..
+cmake --build .
+
+
+-output of the build could be find in build/Debug.
+
+
