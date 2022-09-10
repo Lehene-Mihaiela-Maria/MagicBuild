@@ -57,7 +57,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "magic_build::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-magic_build-Debug-79d7919b71a37b5cbea7.json",
+					"jsonFile" : "target-magic_build-Debug-b0401a52097f9432aac7.json",
 					"name" : "magic_build",
 					"projectIndex" : 0
 				}
@@ -119,7 +119,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "magic_build::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-magic_build-Release-bf955d1d08c2fe0a1ec5.json",
+					"jsonFile" : "target-magic_build-Release-e766a3eebbfcab2cfeac.json",
 					"name" : "magic_build",
 					"projectIndex" : 0
 				}
@@ -181,7 +181,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "magic_build::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-magic_build-MinSizeRel-1f131435c8956cebc476.json",
+					"jsonFile" : "target-magic_build-MinSizeRel-14bb237d54065022ac4e.json",
 					"name" : "magic_build",
 					"projectIndex" : 0
 				}
@@ -243,7 +243,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "magic_build::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-magic_build-RelWithDebInfo-816024dc263f6bb77c70.json",
+					"jsonFile" : "target-magic_build-RelWithDebInfo-3c55d1f8bbb293bf3f2e.json",
 					"name" : "magic_build",
 					"projectIndex" : 0
 				}
