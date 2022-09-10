@@ -1,0 +1,3 @@
+D:/MagicBuildRepo/build/CMakeFiles/magic_build.dir
+D:/MagicBuildRepo/build/CMakeFiles/ALL_BUILD.dir
+D:/MagicBuildRepo/build/CMakeFiles/ZERO_CHECK.dir

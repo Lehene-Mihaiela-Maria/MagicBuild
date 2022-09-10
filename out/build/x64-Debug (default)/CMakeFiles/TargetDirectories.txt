@@ -1,0 +1,3 @@
+D:/MagicBuildRepo/out/build/x64-Debug (default)/CMakeFiles/magic_build.dir
+D:/MagicBuildRepo/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+D:/MagicBuildRepo/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
