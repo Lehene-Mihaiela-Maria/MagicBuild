@@ -14,13 +14,7 @@ endif (HOOK_SCRIPTS)
 
 
 
-#if( CMAKE_RUNTIME_OUTPUT_DIRECTORY )
-#	set( executableOutputPath ${CMAKE_RUNTIME_OUTPUT_DIRECTORY} )
-#elseif( EXECUTABLE_OUTPUT_PATH )
-#	set( executableOutputPath ${EXECUTABLE_OUTPUT_PATH} )
-#else()
-#	set( executableOutputPath ${CMAKE_CURRENT_BINARY_DIR} )
-#endif()
+
 
 set(ARCHIVE_OUTPUT_DIRECTORY  "/D:/BinariesDataFromMagicBuild/lib"
 LIBRARY_OUTPUT_DIRECTORY  "/D:/BinariesDataFromMagicBuild/lib"
