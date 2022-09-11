@@ -1,24 +1,7 @@
 project(MagicBuild)
 cmake_minimum_required(VERSION 3.0)
 
-execute_process(COMMAND git rev-parse HEAD
-    WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
-    OUTPUT_VARIABLE COMMIT_ID
-    OUTPUT_STRIP_TRAILING_WHITESPACE
-)
-
-file(GLOB HOOK_SCRIPTS MagicBuildRepo/*)
-if (HOOK_SCRIPTS)
-    file(COPY ${HOOK_SCRIPTS} DESTINATION ${CMAKE_SOURCE_DIR}/../.git/hooks) 
-endif (HOOK_SCRIPTS)
-
-
-
-
-
-set(ARCHIVE_OUTPUT_DIRECTORY  "/D:/BinariesDataFromMagicBuild/lib"
-LIBRARY_OUTPUT_DIRECTORY  "/D:/BinariesDataFromMagicBuild/lib"
-RUNTIME_OUTPUT_DIRECTORY  "/D:/BinariesDataFromMagicBuild/bin")
-
+#salvez partea build-ul in alt director numit bin
+SET(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${SaveBinanry_SOURCE_DIR}/bin)
 
 add_executable(magic_build main.cpp)
