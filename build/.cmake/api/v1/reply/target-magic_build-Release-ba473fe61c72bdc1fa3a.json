@@ -13,8 +13,7 @@
 	{
 		"commands" : 
 		[
-			"add_executable",
-			"add_definitions"
+			"add_executable"
 		],
 		"files" : 
 		[
@@ -28,13 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 25,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
-				"line" : 20,
+				"line" : 7,
 				"parent" : 0
 			}
 		]
@@ -46,13 +39,6 @@
 			[
 				{
 					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG"
-				}
-			],
-			"defines" : 
-			[
-				{
-					"backtrace" : 2,
-					"define" : "APP_GIT_VERSION=\"8cafce25c3748568c902bd6cfac72971e074aa63\""
 				}
 			],
 			"language" : "CXX",
