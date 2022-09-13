@@ -189,13 +189,28 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+MagicBuildRepo_BINARY_DIR:STATIC=D:/MagicBuildRepo/build
+
+//Value Computed by CMake
+MagicBuildRepo_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+MagicBuildRepo_SOURCE_DIR:STATIC=D:/MagicBuildRepo
+
+//Value Computed by CMake
 MagicBuild_BINARY_DIR:STATIC=D:/MagicBuildRepo/build
 
 //Value Computed by CMake
 MagicBuild_IS_TOP_LEVEL:STATIC=ON
 
+//Dependencies for the target
+MagicBuild_LIB_DEPENDS:STATIC=general;Boost::boost;
+
 //Value Computed by CMake
 MagicBuild_SOURCE_DIR:STATIC=D:/MagicBuildRepo
+
+//Dependencies for the target
+modern_library_LIB_DEPENDS:STATIC=general;Boost::boost;
 
 
 ########################

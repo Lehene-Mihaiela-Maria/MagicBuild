@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <ProjectOutputs>D:\MagicBuildRepo\build\Debug\ZERO_CHECK;D:\bin\Debug\magic_build.exe;D:\MagicBuildRepo\build\Debug\ALL_BUILD</ProjectOutputs>
+  <ProjectOutputs>D:\MagicBuildRepo\build\Debug\ZERO_CHECK;D:\directory_bin\Debug\magic_build.exe;D:\MagicBuildRepo\build\Debug\ALL_BUILD</ProjectOutputs>
   <ContentFiles></ContentFiles>
   <SatelliteDlls></SatelliteDlls>
   <NonRecipeFileRefs></NonRecipeFileRefs>
